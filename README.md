@@ -14,15 +14,17 @@ Below are some writeups on how I tackled each challenge!
 
 <details>
     <summary>Web Exploitation</summary>
-    * [SSTI 1](ssti_1/ssti_1.md)
-    * [SSTI 2](ssti_2/ssti_2.md)
-    * [n0s4n1ty 1](n0s4n1ty_1/n0s4n1ty_1.md)
-    * [head-dump](head_dump/head_dump.md)
-    * [Cookie Monster Secret Recipe](cookie_monster/cookie_monster.md)
-    * [Pachinko](pachinko/pachinko.md)
-    * [3v@l](3v@l/3v@l.md)
-    * [WebSockFish](websockfish/websockfish.md)
-    * [Apriti sesamo](apriti_sesamo/apriti_sesamo.md)
+
+* [SSTI 1](ssti_1/ssti_1.md)
+* [SSTI 2](ssti_2/ssti_2.md)
+* [n0s4n1ty 1](n0s4n1ty_1/n0s4n1ty_1.md)
+* [head-dump](head_dump/head_dump.md)
+* [Cookie Monster Secret Recipe](cookie_monster/cookie_monster.md)
+* [Pachinko](pachinko/pachinko.md)
+* [3v@l](3v@l/3v@l.md)
+* [WebSockFish](websockfish/websockfish.md)
+* [Apriti sesamo](apriti_sesamo/apriti_sesamo.md)
+
 </details>
 
 <details>
