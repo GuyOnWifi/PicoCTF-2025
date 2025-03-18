@@ -1,0 +1,3 @@
+No clue why this is called head-dump when it's a heap dump.
+
+Clicking on #api-documentation leads us to an API documentation page, which has an interesting route: `/heapdump`. I called it, and it gave me a `.heapsnapshot` file. I originally tried uploading it to Firefox and Chrome developer tools, which didn't work. After thinking for a bit, I decided to go with the strings command to see if the heap dump had anything interesting. It was able to print out the Javascript code, so I used grep to specifically match for the flag. I ran `strings snapshot.heapsnapshot | grep "picoCTF"` and it printed out the flag!
