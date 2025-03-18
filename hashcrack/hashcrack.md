@@ -1,0 +1,1 @@
+Hashes can be precomputed into what's known as "rainbow tables", and can easily be looked up. I searched "hash cracking tool online", [which led me to this site](https://crackstation.net/), and it worked perfectly!

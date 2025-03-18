@@ -1,0 +1,1 @@
+The hint says "Remember that cipher we devised together Squeexy? The one that incorporates your affinity for linear equations???" A quick ChatGPT question tells me that it might be an Affine Cipher. Using [this website](https://www.dcode.fr/affine-cipher), I was easily able to brute force and crack the cipher.

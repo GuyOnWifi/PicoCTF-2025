@@ -28,7 +28,11 @@ Below are some writeups on how I tackled each challenge!
 </details>
 
 <details>
-    <summary>Cryptography (still working on writeups!)</summary>
+    <summary>Cryptography</summary>
+
+    * [hashcrack](hashcrack/hashcrack.md)
+    * [EVEN RSA CAN BE BROKEN???](rsa/rsa.md)
+    * [Guess My Cheese (Part 1)](cheese_1/cheese_1.md)
 </details>
 
 <details>
