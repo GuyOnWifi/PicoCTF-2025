@@ -16,7 +16,6 @@ print(conn.recvline())
 print(conn.recvline())
 
 for i in range(50):
-    conn.send(get_random(20) + "\n")
-    print("sent")
+    conn.send(get_random(20))
     print(conn.recvline())
 

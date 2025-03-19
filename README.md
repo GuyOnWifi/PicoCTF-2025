@@ -9,6 +9,7 @@ I learned a lot of web exploitation, reading assembly and exploiting binaries th
 Below are some writeups on how I tackled each challenge!
 
 ## Writeups
+Note - The flags WILL NOT work for you, because they are unique to each player. The flags I show are truncated to preserve just the leetspeak messages.
 
 **Work in progress - more coming soon**
 
@@ -30,13 +31,19 @@ Below are some writeups on how I tackled each challenge!
 <details>
     <summary>Cryptography</summary>
 
-    * [hashcrack](hashcrack/hashcrack.md)
-    * [EVEN RSA CAN BE BROKEN???](rsa/rsa.md)
-    * [Guess My Cheese (Part 1)](cheese_1/cheese_1.md)
+* [hashcrack](hashcrack/hashcrack.md)
+* [EVEN RSA CAN BE BROKEN???](rsa/rsa.md)
+* [Guess My Cheese (Part 1)](cheese_1/cheese_1.md)
 </details>
 
 <details>
-    <summary>Reverse Engineering (still working on writeups!)</summary>
+    <summary>Reverse Engineering</summary>
+
+* [Flag Hunters](flag_hunters/flag_hunters.md)
+* [Quantum Scrambler](quantum_scrambler/quantum_scrambler.md)
+* [Chronohack](chrono_hack/chrono_hack.md)
+* [Tap into Hash](tap_into_hash/tap_into_hash.md)
+
 </details>
 
 <details>
