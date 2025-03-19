@@ -51,7 +51,10 @@ Note - The flags WILL NOT work for you, because they are unique to each player. 
 </details>
 
 <details>
-    <summary>General Skills (still working on writeups!)</summary>
+    <summary>General Skills</summary>
+The General skills this year were easy (besides YaraRules0x100, which I didn't do).
+* FANTASY CTF - Just follow instructions
+* Rust fixme 1, 2 & 3 - Basic Rust syntaxing, just some quick googling.
 </details>
 
 <details>
