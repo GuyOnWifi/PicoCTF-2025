@@ -1,0 +1,3 @@
+I opened this in Windows with the Event Log Viewer, and sorted by time. I looked through the events, filtered some of the useless ones like A handler was created and just looked for any suspicious text. I found three pieces of base64 encoded strings, which gave me the flag when pieced together. 
+
+The first one was the author of the installer. Next was a Registry key edit, which was another base64 string. And the last base64 string was shown in the boot message.

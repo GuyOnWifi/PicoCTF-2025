@@ -1,6 +1,6 @@
 Decided to dabble in a bit of cybersecurity and capture the flag (CTF) style challenges. For my first-ever CTF competition, I decided to participate in [picoCTF 2025](www.picoctf.org), which ran from March 17-27th. 
 
-![Progress](image.png)
+![Progress](progress.png)
 
 I was really happy with my result, placing 36th in the high school category! 
 
@@ -47,7 +47,15 @@ Note - The flags WILL NOT work for you, because they are unique to each player. 
 </details>
 
 <details>
-    <summary>Forensics (still working on writeups!)</summary>
+    <summary>Forensics</summary>
+
+* [RED](red/red.md)
+* [Ph4nt0m 1ntrud3r](ph4nt0m_1ntrud3r/ph4nt0m_1ntrud3r.md)
+* [flags are stepic](flags_are_stepic/flags_are_stepic.md)
+* [Event-Viewing](event_viewing/event_viewing.md)
+* [Bitlocker-1](bitlocker_1/bitlocker_1.md)
+* [Bitlocker-2](bitlocker_2/bitlocker_2.md)
+
 </details>
 
 <details>
