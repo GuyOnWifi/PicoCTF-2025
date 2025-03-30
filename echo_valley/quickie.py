@@ -1,4 +1,4 @@
-for i in range(30, 40):
+for i in range(20, 30):
     print(f"%{i}$p ", end="")
 print()
 

@@ -72,5 +72,6 @@ The General skills this year were easy (besides YaraRules0x100, which I didn't d
 * [PIE TIME 2](pie_time_2/pie_time_2.md)
 * [hash-only-1](hash_only_1/hash_only_1.md)
 * [hash-only-2](hash_only_2/hash_only_2.md)
+* [Echo Valley](echo_valley/echo_valley.md)
 </details>
 
