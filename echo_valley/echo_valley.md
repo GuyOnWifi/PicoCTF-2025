@@ -212,4 +212,4 @@ And we get:
 \x00(h\xbdx\xfd\x7fThe Valley Disappears\nCongrats! Here is your flag: picoctf{f1ckl3_f0rmat_f1asc0}\n'
 ```
 
-I spent a long time debug the program because it doesn't work locally when I try it on the binary, maybe due to more protections enabled. Sometimes you just have to test it on the server and pray it works.
+I spent a long time debugging the program because it doesn't work locally when I try it on the binary, maybe due to more protections enabled. Sometimes you just have to test it on the server and pray it works.

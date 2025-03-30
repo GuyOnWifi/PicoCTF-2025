@@ -1,4 +1,4 @@
-Decided to dabble in a bit of cybersecurity and capture the flag (CTF) style challenges. For my first-ever CTF competition, I decided to participate in [picoCTF 2025](www.picoctf.org), which ran from March 17-27th. 
+Decided to dabble in a bit of cybersecurity and capture the flag (CTF) style challenges. For my first-ever CTF competition, I decided to participate in [picoCTF 2025](www.picoctf.org), which ran from March 7-17th. 
 
 ![Progress](progress.png)
 
@@ -11,7 +11,6 @@ Below are some writeups on how I tackled each challenge!
 ## Writeups
 Note - The flags WILL NOT work for you, because they are unique to each player. The flags I show are truncated to preserve just the leetspeak messages.
 
-**Work in progress - more coming soon**
 
 <details>
     <summary>Web Exploitation</summary>
@@ -66,7 +65,7 @@ The General skills this year were easy (besides YaraRules0x100, which I didn't d
 </details>
 
 <details>
-    <summary>Binary Exploitation (still working on writeups!)</summary>
+    <summary>Binary Exploitation</summary>
 
 * [PIE TIME](pie_time/pie_time.md)
 * [PIE TIME 2](pie_time_2/pie_time_2.md)
