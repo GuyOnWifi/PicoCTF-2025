@@ -4,14 +4,12 @@ Decided to dabble in a bit of cybersecurity and capture the flag (CTF) style cha
 
 I was really happy with my result, placing 36th in the high school category! 
 
-I learned a lot of web exploitation, reading assembly and exploiting binaries through format string vulnrebilites or heap overflows, and forensics with system images. I learned many tools like Burp for web exploitation, gdb for debugging, and Ghidra for reverse engineering!
+I learned a lot of web exploitation, reading assembly and exploiting binaries through format string vulnerabilites or heap overflows, and forensics with system images. I learned many tools like Burp for web exploitation, gdb/pwndbg for debugging, and Ghidra for reverse engineering!
 
 Below are some writeups on how I tackled each challenge!
 
 ## Writeups
-Note - The flags WILL NOT work for you, because they are unique to each player. The flags I show are truncated to preserve just the leetspeak messages.
-
-
+Note - I truncated most of the flags to just preserve the leetspeek messages.
 <details>
     <summary>Web Exploitation</summary>
 
@@ -60,8 +58,8 @@ Note - The flags WILL NOT work for you, because they are unique to each player. 
 <details>
     <summary>General Skills</summary>
 The General skills this year were easy (besides YaraRules0x100, which I didn't do).
-* FANTASY CTF - Just follow instructions
-* Rust fixme 1, 2 & 3 - Basic Rust syntaxing, just some quick googling.
+* FANTASY CTF - Just follow the text instructions
+* Rust fixme 1, 2 & 3 - Basic Rust syntax, just some quick googling.
 </details>
 
 <details>
