@@ -63,7 +63,7 @@ The General skills this year were easy (besides YaraRules0x100, which I didn't d
 </details>
 
 <details>
-    <summary>Binary Exploitation</summary>
+    <summary>Binary Exploitation <strong>(detailed)</strong></summary>
 
 * [PIE TIME](pie_time/pie_time.md)
 * [PIE TIME 2](pie_time_2/pie_time_2.md)
